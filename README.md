@@ -24,3 +24,11 @@ O jogador deve evitar que a cobra colida com outros obstáculos e consigo mesma,
 ----------------------------
 
 2- Projeto em Monogame
+
+2.1 - organização dos ficheiros:
+
+![estrutura do jogo](https://github.com/user-attachments/assets/59dd4a81-ad3c-4a8f-9c6d-d18617639679)
+
+Na imagem observamos como estão separados todos os ficheiros do trabalho, alguns já do monogame mas outros criados pelo criador e separados em pastas.
+Como qualquer outro jogo feito em Monogame, o existe a pasta "Content". Nesta estão guardados todos os ficheiros de 
+
