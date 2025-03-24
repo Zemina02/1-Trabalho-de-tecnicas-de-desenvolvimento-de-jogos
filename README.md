@@ -31,5 +31,11 @@ O jogador deve evitar que a cobra colida com outros obstáculos e consigo mesma,
 <img src = "https://github.com/user-attachments/assets/59dd4a81-ad3c-4a8f-9c6d-d18617639679" width="300">
 
 Na imagem observamos como estão separados todos os ficheiros do trabalho, alguns já do monogame mas outros criados pelo criador e separados em pastas.
-Como qualquer outro jogo feito em Monogame, o existe a pasta "Content". Nesta estão guardados todos os ficheiros de 
+Como qualquer outro jogo feito em Monogame, o existe a pasta "Content".
+Nesta estão guardados todos os ficheiros relacionados com imagens, videos, entre outros tipos de media.
+
+Dentro do ficheiro "Content.mgcb":
+<img src = "https://github.com/user-attachments/assets/eb8b7fa8-7820-49a2-9505-1df8e1518a03" width="500">
+
+
 
