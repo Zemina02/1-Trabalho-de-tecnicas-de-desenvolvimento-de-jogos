@@ -47,6 +47,7 @@ Dentro do ficheiro "Content.mgcb":
 <img src = "https://github.com/user-attachments/assets/5a3d4adb-13eb-44ae-945a-c4d7c25c92e9" width="500">
 
 Nesta função do monogame vai decorrer todas as operações que, tal como diz o nome da função, inicializam o jogo.
+Estas acontecem até mesmo antes de o jogo começar.
 Define aqui quantos frames por segundo o jogo irá decorrer, a resoluçao da janela do jogo e ainda uma outra função
 chamada "Init".
 
@@ -59,12 +60,30 @@ A função recebe como parametros a largura do nivel, a altura do nivel e o núm
 <img src = "https://github.com/user-attachments/assets/ba33156f-0b77-404c-a840-b532477e8771" width="150">
 
 -------------------------
-### 2.3 - "LoadContent"
+### 2.3 - "LoadContent" e "UnloadContent":
 
 <img src = "https://github.com/user-attachments/assets/938d889c-7ec7-4e9d-92fb-8915cd018aad" width="500">
 
-Nesta função é carregado todo o conteudo da pasta "Content", que é apenas as sprites das frutas (2) e também
-uma variavel chamada de "whiteRectangle".
+Nesta função é carregado todo o conteudo assim que o jogo inicia da pasta **"Content"**, que é apenas as **sprites das frutas ("fruit2")** e também
+uma variavel chamada de **"whiteRectangle"** que vai ser a base para desenhar o **fundo do jogo** assim como o **"player"**.
+Para o **"LoadContent"** existe a função oposta que é o **"UnloadContent"**. Esta é executada quando o programa fecha ou quando é chamada para libertar o espaço
+ocupado pelos sprites localizados dentro da função.
+
+---------------------------
+### 2.4 - "Update":
+
+<img src = "https://github.com/user-attachments/assets/18915ffe-edc7-4211-8f0b-5d36bb21df1b" width="2000">
+
+Nesta secção do update está inserido os **controlos principais** da cobra. Para além do base, é possivel **controlar a velocidade da cobra**.
+Estes são atualizados todos os frames do jogo.
+
+
+<img src = "https://github.com/user-attachments/assets/5cb60dd7-832c-442c-9030-0f6ccad2f98c" width="400">
+
+
+----------------------------
+### 2.5 - "Draw"
+
 
 
 
