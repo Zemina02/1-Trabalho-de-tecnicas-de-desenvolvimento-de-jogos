@@ -72,7 +72,7 @@ ocupado pelos sprites localizados dentro da função.
 ---------------------------
 ### 2.4 - "Update":
 
-<img src = "https://github.com/user-attachments/assets/18915ffe-edc7-4211-8f0b-5d36bb21df1b" width="2000">
+<img src = "https://github.com/user-attachments/assets/18915ffe-edc7-4211-8f0b-5d36bb21df1b" width="1000">
 
 Nesta secção do update está inserido os **controlos principais** da cobra. Para além do base, é possivel **controlar a velocidade da cobra**.
 Estes são atualizados todos os frames do jogo.
@@ -84,8 +84,12 @@ Estes são atualizados todos os frames do jogo.
 ----------------------------
 ### 2.5 - "Draw"
 
+<img src = "https://github.com/user-attachments/assets/7650fea9-3841-4f5a-8c91-634ea4fe3593" width="2000">
 
 
+Nesta parte do codigo é executado tudo que se vê na janela do jogo. Primeiro preenche o ecra de verde e de seguida divide pelo
+tamanho pretendido para o nivel com retangulos castanhos, ou como diz no codigo: "chocolate".
+Pro fim, a função desenha também a fruta que aumenta o tamanho do player e o player em si.
 
 
 
