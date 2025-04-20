@@ -91,5 +91,8 @@ Nesta parte do codigo é executado tudo que se vê na janela do jogo. Primeiro p
 tamanho pretendido para o nivel com retangulos castanhos, ou como diz no codigo: "chocolate".
 Pro fim, a função desenha também a fruta que aumenta o tamanho do player e o player em si.
 
+------------------------------------------------------------------------------------------------------------------------------
+
+## 3-  Mecânicas e Controlos do jogo:
 
 
