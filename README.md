@@ -102,14 +102,17 @@ Pro fim, a função desenha também a fruta que aumenta o tamanho do player e o 
 
 Aqui está como funciona mais a detalhe o movimento da serpente:
 
-** Velocidade da serpente;
+**Velocidade da serpente;
 
-** Direção da serpente;
+**Direção da serpente;
 
-** Nova posição da serpente;
+**Nova posição da serpente;
 
-** Remoção do fim do corpo;
+**Remoção do fim do corpo;
 
-** Inserção da nova posição;
+**Inserção da nova posição;
 
 
+![image](https://github.com/user-attachments/assets/c43ab1d3-2e74-482c-9960-e153711bec98)
+
+Na restante função temos o codigo que fará 
