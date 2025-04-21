@@ -75,7 +75,7 @@ ocupado pelos sprites localizados dentro da função.
 <img src = "https://github.com/user-attachments/assets/18915ffe-edc7-4211-8f0b-5d36bb21df1b" width="1000">
 
 Nesta secção do update está inserido os **controlos principais** da cobra. Para além do base, é possivel **controlar a velocidade da cobra**.
-Estes são atualizados todos os frames do jogo.
+Estes são atualizados todos os frames do jogo. Também inclui um input para sair do jogo.
 
 
 <img src = "https://github.com/user-attachments/assets/5cb60dd7-832c-442c-9030-0f6ccad2f98c" width="400">
@@ -94,5 +94,22 @@ Pro fim, a função desenha também a fruta que aumenta o tamanho do player e o 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ## 3-  Mecânicas e Controlos do jogo:
+
+# 3.1- Movimento da serpente:
+
+![image](https://github.com/user-attachments/assets/ae07fd18-8423-4d42-ab50-9e8289a289e1)
+
+
+Aqui está como funciona mais a detalhe o movimento da serpente:
+
+** Velocidade da serpente;
+
+** Direção da serpente;
+
+** Nova posição da serpente;
+
+** Remoção do fim do corpo;
+
+** Inserção da nova posição;
 
 
