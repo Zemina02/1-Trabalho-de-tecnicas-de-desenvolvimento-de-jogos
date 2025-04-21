@@ -15,7 +15,7 @@ Neste README vamos observar mais a detalhe a estrutura de um jogo feito em Monog
 O jogo escolhido para este trabalho é uma recriação do classico videojogo de arcade de 1976, Blockade, desenvolvido e publicado pela Gremlin Industries, onde o jogador manobra o fim de uma linha crescente, geralmente tematizada como uma cobra.
 O jogador deve evitar que a cobra colida com outros obstáculos e consigo mesma, o que fica mais difícil conforme a cobra se alonga.
 
-<img src = "https://github.com/user-attachments/assets/fbf2ebaf-d4c7-4f06-9113-19cc13cefe44" width="500" />
+<img src = "https://github.com/user-attachments/assets/fbf2ebaf-d4c7-4f06-9113-19cc13cefe44" width="500" >
 
 (foto do jogo escolhido em funcionamento)
 
@@ -95,7 +95,7 @@ Pro fim, a função desenha também a fruta que aumenta o tamanho do player e o 
 
 ## 3-  Mecânicas e Controlos do jogo:
 
-# 3.1- Movimento da serpente:
+### 3.1- Movimento da serpente:
 
 ![image](https://github.com/user-attachments/assets/ae07fd18-8423-4d42-ab50-9e8289a289e1)
 
@@ -112,7 +112,25 @@ Aqui está como funciona mais a detalhe o movimento da serpente:
 
 **Inserção da nova posição;**
 
+Na restante função temos o codigo que fará a serpente aumentar de tamanho ao colidir com a fruta assim como dá "spawn" numa localização randomizada e a elimina
+nesta respetiva ordem. ![image](https://github.com/user-attachments/assets/8c120227-6222-4ed8-ad08-cd41354efbee).
 
 ![image](https://github.com/user-attachments/assets/c43ab1d3-2e74-482c-9960-e153711bec98)
 
-Na restante função temos o codigo que fará 
+As Funções utilizadas para isto são as seguintes:
+
+<img src = "https://github.com/user-attachments/assets/6bfda504-f4ed-492f-92e5-806aa4e69b35" width="500" > <img src = "https://github.com/user-attachments/assets/c855ba3e-891a-4ead-9f3b-d8e544bfbe77" width="500" >
+![image](https://github.com/user-attachments/assets/80d4c04c-052a-4796-8615-4cf9986b8bb4)
+
+--------------------------------------------------------------------------------------------------------------
+## 4- Alguns problemas:
+
+Neste momento como o jogo se apresenta, não há qualquer maneira de se perder. Não há colisões com as paredes nem com o próprio corpo do jogador. Além disso, sendo que 
+o jogador não colide consigo mesmo, é dificil saber onde está situada a cabeça do jogador visto que a serpente é toda da mesma cor.
+
+Outro problema visivel ao longo do decorrer do jogo é que a fruta pode dar "spawn" dentro do corpo do jogador, ou seja, atrás do quadrado azul desenhado, ficando impossivel de mais tarde quando a serpente ficar muito longa, 
+de saber onde está localizada a fruta.
+
+
+
+
