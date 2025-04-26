@@ -119,8 +119,9 @@ nesta respetiva ordem. ![image](https://github.com/user-attachments/assets/8c120
 
 As Funções utilizadas para isto são as seguintes:
 
-<img src = "https://github.com/user-attachments/assets/6bfda504-f4ed-492f-92e5-806aa4e69b35" width="500" > <img src = "https://github.com/user-attachments/assets/c855ba3e-891a-4ead-9f3b-d8e544bfbe77" width="500" >
-![image](https://github.com/user-attachments/assets/80d4c04c-052a-4796-8615-4cf9986b8bb4)
+<img src = "https://github.com/user-attachments/assets/6bfda504-f4ed-492f-92e5-806aa4e69b35" width="500" > 
+<img src = "https://github.com/user-attachments/assets/c855ba3e-891a-4ead-9f3b-d8e544bfbe77" width="500" >
+<img src = "https://github.com/user-attachments/assets/80d4c04c-052a-4796-8615-4cf9986b8bb4" width="500" >
 
 --------------------------------------------------------------------------------------------------------------
 ## 4- Alguns problemas:
