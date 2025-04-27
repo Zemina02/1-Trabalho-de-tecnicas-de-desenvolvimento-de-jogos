@@ -119,9 +119,16 @@ nesta respetiva ordem. ![image](https://github.com/user-attachments/assets/8c120
 
 As Funções utilizadas para isto são as seguintes:
 
+Aqui observa-se a classe player que herda outra classe chamada "Entity". A classe Entity serve para identificar onde se situa determinado objeto ou ponto na janela do jogo através das coordenadas x e y.
+
 <img src = "https://github.com/user-attachments/assets/6bfda504-f4ed-492f-92e5-806aa4e69b35" width="500" > 
-<img src = "https://github.com/user-attachments/assets/c855ba3e-891a-4ead-9f3b-d8e544bfbe77" width="500" >
-<img src = "https://github.com/user-attachments/assets/80d4c04c-052a-4796-8615-4cf9986b8bb4" width="500" >
+<img src = "https://github.com/user-attachments/assets/cb033592-75aa-4db5-a788-432beef17095" width="500" >
+
+Aqui tambem se usa essa classe para localizar a posição das frutas.
+
+<img src = "https://github.com/user-attachments/assets/5e96de99-9bb1-4390-a9ab-705504466744" width="500" >
+<img src = "https://github.com/user-attachments/assets/4f148e6b-23bd-4d41-aa5e-32f946274cad" width="500" >
+
 
 --------------------------------------------------------------------------------------------------------------
 ## 4- Alguns problemas:
